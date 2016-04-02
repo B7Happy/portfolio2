@@ -5,4 +5,6 @@ Rails.application.routes.draw do
   get 'portfolio' => 'portfolio#portfolio'
   get 'about' => 'about#about'
   get 'contact' => 'contact#contact'
+  get 'java' => 'portfolio#java'
+  get 'js' => 'portfolio#js'
 end
