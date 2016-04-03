@@ -8,5 +8,6 @@ Rails.application.routes.draw do
   get 'java' => 'portfolio#java'
   get 'js' => 'portfolio#js'
   get 'net' => 'portfolio#net'
-  get 'net' => 'portfolio#node'
+  get 'node' => 'portfolio#node'
+  get 'unreal' => 'portfolio#unreal'
 end
