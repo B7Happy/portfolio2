@@ -7,4 +7,6 @@ Rails.application.routes.draw do
   get 'contact' => 'contact#contact'
   get 'java' => 'portfolio#java'
   get 'js' => 'portfolio#js'
+  get 'net' => 'portfolio#net'
+  get 'net' => 'portfolio#node'
 end
