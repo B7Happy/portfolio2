@@ -20,4 +20,23 @@ def unreal
 
 end
 
+def jq
+
+end
+
+def html
+
+end
+
+def ruby
+
+end
+
+def android
+
+end
+
+def symfony
+
+end
 end

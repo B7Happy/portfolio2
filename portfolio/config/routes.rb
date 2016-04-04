@@ -10,4 +10,9 @@ Rails.application.routes.draw do
   get 'net' => 'portfolio#net'
   get 'node' => 'portfolio#node'
   get 'unreal' => 'portfolio#unreal'
+  get 'jq' => 'portfolio#jq'
+  get 'html' => 'portfolio#html'
+  get 'ruby' => 'portfolio#ruby'
+  get 'android' => 'portfolio#android'
+  get 'symfony' => 'portfolio#symfony'
 end
